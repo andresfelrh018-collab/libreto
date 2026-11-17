@@ -1,0 +1,520 @@
+{
+  "version": 1,
+  "actualizado": "2026-11-17",
+  "series": [
+    {
+      "id": "cine-mudo-colombiano",
+      "tipo": "serie",
+      "titulo": "Joyas del cine mudo colombiano",
+      "sinopsis": "Tres películas de los años veinte rodadas en Colombia: un melodrama basado en Vargas Vila, un drama sobre el miedo a la lepra y un romance en la Antioquia de 1925. Intertítulos en español.",
+      "generos": [
+        "romance",
+        "drama",
+        "clásico"
+      ],
+      "idioma": "es",
+      "anio": "1924–1925",
+      "color": "#7A5C3E",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aura_o_las_violetas_%281924%29.webm/960px--Aura_o_las_violetas_%281924%29.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/Category:Videos_of_films_in_Spanish",
+      "licencia": "Dominio público",
+      "url_licencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "nota_licencia": "Obras colombianas de 1924–1925 en dominio público (plantillas PD-Colombia y PD-old-70 en Commons). Aura o las violetas y La tragedia del silencio se conservan como fragmentos.",
+      "autor": "Pedro Moreno Garzón, Vincenzo Di Doménico y Arturo Acevedo Vallarino",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Aura o las violetas (1924)",
+          "duracion_seg": 942,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Aura_o_las_violetas_%281924%29.webm/Aura_o_las_violetas_%281924%29.webm.480p.vp9.webm",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Aura_o_las_violetas_%281924%29.webm/Aura_o_las_violetas_%281924%29.webm.360p.mpeg4.mov",
+          "subtitulos": [],
+          "url_fuente": "https://commons.wikimedia.org/wiki/File:Aura_o_las_violetas_%281924%29.webm"
+        },
+        {
+          "numero": 2,
+          "titulo": "La tragedia del silencio (1924)",
+          "duracion_seg": 1435,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/La_tragedia_del_silencio_%281924%29.webm/La_tragedia_del_silencio_%281924%29.webm.480p.vp9.webm",
+          "subtitulos": [],
+          "url_fuente": "https://commons.wikimedia.org/wiki/File:La_tragedia_del_silencio_%281924%29.webm"
+        },
+        {
+          "numero": 3,
+          "titulo": "Bajo el cielo antioqueño (1925)",
+          "duracion_seg": 7450,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/40/Bajo_el_cielo_antioque%C3%B1o_%281925%29.webm/Bajo_el_cielo_antioque%C3%B1o_%281925%29.webm.360p.mpeg4.mov",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/40/Bajo_el_cielo_antioque%C3%B1o_%281925%29.webm/Bajo_el_cielo_antioque%C3%B1o_%281925%29.webm.240p.vp9.webm",
+          "subtitulos": [],
+          "url_fuente": "https://commons.wikimedia.org/wiki/File:Bajo_el_cielo_antioque%C3%B1o_%281925%29.webm"
+        }
+      ]
+    },
+    {
+      "id": "la-casa-de-la-troya",
+      "tipo": "pelicula",
+      "titulo": "La casa de la Troya",
+      "sinopsis": "Un joven madrileño es enviado a estudiar a Santiago de Compostela, donde la vida de pensión estudiantil y un amor inesperado le cambian los planes. Comedia romántica muda española.",
+      "generos": [
+        "romance",
+        "comedia",
+        "clásico"
+      ],
+      "idioma": "es",
+      "anio": "1925",
+      "color": "#4E5D6C",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/La_casa_de_la_Troya_%281925%29.webm/500px--La_casa_de_la_Troya_%281925%29.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:La_casa_de_la_Troya_%281925%29.webm",
+      "licencia": "Dominio público",
+      "url_licencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "nota_licencia": "Autores fallecidos hace más de 70 años; obra de 1925, también en dominio público en EE. UU. (PD-old-70 y PD-US-expired en Commons).",
+      "autor": "Alejandro Pérez Lugín y Juan Pacheco",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "La casa de la Troya",
+          "duracion_seg": 7797,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/La_casa_de_la_Troya_%281925%29.webm/La_casa_de_la_Troya_%281925%29.webm.480p.vp9.webm",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "nobleza-gaucha",
+      "tipo": "pelicula",
+      "titulo": "Nobleza gaucha",
+      "sinopsis": "Un estanciero rapta a una joven campesina y la lleva a Buenos Aires; un gaucho cruza la pampa y la ciudad para rescatarla. Uno de los grandes éxitos del cine mudo argentino.",
+      "generos": [
+        "drama",
+        "aventura",
+        "clásico"
+      ],
+      "idioma": "es",
+      "anio": "1915",
+      "color": "#8A6D3B",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nobleza_Gaucha_%281915%29_.webm/500px--Nobleza_Gaucha_%281915%29_.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:Nobleza_Gaucha_%281915%29_.webm",
+      "licencia": "Dominio público",
+      "url_licencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "nota_licencia": "Película argentina en dominio público (plantilla PD-AR-Movie en Commons); anterior a 1931, también libre en EE. UU.",
+      "autor": "Humberto Cairo, Ernesto Gunche y Eduardo Martínez de la Pera",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Nobleza gaucha",
+          "duracion_seg": 3830,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Nobleza_Gaucha_%281915%29_.webm/Nobleza_Gaucha_%281915%29_.webm.480p.vp9.webm",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Nobleza_Gaucha_%281915%29_.webm/Nobleza_Gaucha_%281915%29_.webm.360p.mpeg4.mov",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "el-adios-del-unitario",
+      "tipo": "corto",
+      "titulo": "El adiós del unitario",
+      "sinopsis": "Una despedida en tiempos de guerra civil. Considerada la primera escena hablada del cine argentino: cuatro minutos de historia del cine con sonido en español.",
+      "generos": [
+        "drama",
+        "clásico"
+      ],
+      "idioma": "es",
+      "anio": "1929",
+      "color": "#5B4A6B",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/El_adi%C3%B3s_del_unitario_-_1929.webm/330px--El_adi%C3%B3s_del_unitario_-_1929.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:El_adi%C3%B3s_del_unitario_-_1929.webm",
+      "licencia": "Dominio público",
+      "url_licencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "nota_licencia": "Plantillas PD-AR-Movie y PD-US-expired en Commons.",
+      "autor": "Edmo Cominetti (dirección) y Enrique Pedro Maroni (guion)",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "El adiós del unitario",
+          "duracion_seg": 247,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/El_adi%C3%B3s_del_unitario_-_1929.webm/El_adi%C3%B3s_del_unitario_-_1929.webm.360p.mpeg4.mov",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/El_adi%C3%B3s_del_unitario_-_1929.webm/El_adi%C3%B3s_del_unitario_-_1929.webm.240p.vp9.webm",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "superman-fleischer",
+      "tipo": "serie",
+      "titulo": "Superman (Fleischer, 1941–1942)",
+      "sinopsis": "Los cortos animados clásicos de los estudios Fleischer: científicos locos, robots gigantes y Lois Lane siempre en peligro. Audio original en inglés.",
+      "generos": [
+        "animación",
+        "acción",
+        "ciencia ficción",
+        "clásico"
+      ],
+      "idioma": "en",
+      "anio": "1941–1942",
+      "color": "#1F4E8C",
+      "portada": "https://archive.org/services/img/superman_1941",
+      "fuente": "Internet Archive",
+      "url_fuente": "https://archive.org/details/superman_1941",
+      "licencia": "Dominio público",
+      "url_licencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "nota_licencia": "Los derechos de estos cortos no se renovaron y están en dominio público en EE. UU. El personaje Superman sigue siendo marca registrada de DC Comics. Se omitió 'Eleventh Hour' por su contenido racista de época.",
+      "autor": "Fleischer Studios / Famous Studios",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "El científico loco",
+          "duracion_seg": 621,
+          "video": "https://archive.org/download/superman_1941/superman_1941_512kb.mp4",
+          "url_fuente": "https://archive.org/details/superman_1941",
+          "subtitulos": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Los monstruos mecánicos",
+          "duracion_seg": 615,
+          "video": "https://archive.org/download/superman_the_mechanical_monsters/superman_the_mechanical_monsters_512kb.mp4",
+          "url_fuente": "https://archive.org/details/superman_the_mechanical_monsters",
+          "subtitulos": []
+        },
+        {
+          "numero": 3,
+          "titulo": "El telescopio magnético",
+          "duracion_seg": 460,
+          "video": "https://archive.org/download/Superman_The_Magnetic_Telescope/Superman_The_Magnetic_Telescope_512kb.mp4",
+          "url_fuente": "https://archive.org/details/Superman_The_Magnetic_Telescope",
+          "subtitulos": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Terremoto eléctrico",
+          "duracion_seg": 523,
+          "video": "https://archive.org/download/superman_electric_earthquake/superman_electric_earthquake_512kb.mp4",
+          "url_fuente": "https://archive.org/details/superman_electric_earthquake",
+          "subtitulos": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Terror en la feria",
+          "duracion_seg": 481,
+          "video": "https://archive.org/download/superman_terror_on_the_midway/Superman-09-Terror_on_the_Midway_512kb.mp4",
+          "url_fuente": "https://archive.org/details/superman_terror_on_the_midway",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "la-tiendita-de-los-horrores",
+      "tipo": "pelicula",
+      "titulo": "La tiendita de los horrores",
+      "sinopsis": "Seymour, empleado torpe de una floristería, cría una planta carnívora que habla… y que solo come carne humana. Comedia negra de Roger Corman. Audio en inglés con subtítulos en español incrustados.",
+      "generos": [
+        "comedia",
+        "terror"
+      ],
+      "idioma": "en",
+      "subtitulado": "es",
+      "anio": "1960",
+      "color": "#3E6B3A",
+      "portada": "https://archive.org/services/img/TheLittleShopOfHorrorswithSpanishSubtitles",
+      "fuente": "Internet Archive",
+      "url_fuente": "https://archive.org/details/TheLittleShopOfHorrorswithSpanishSubtitles",
+      "licencia": "Dominio público",
+      "url_licencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "nota_licencia": "La película de 1960 se publicó sin aviso de copyright válido y está en dominio público en EE. UU. La subtitulación fue publicada por Horrorthèque como dominio público.",
+      "autor": "Roger Corman (dirección); subtítulos: Horrorthèque",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "La tiendita de los horrores",
+          "duracion_seg": 4351,
+          "video": "https://archive.org/download/TheLittleShopOfHorrorswithSpanishSubtitles/The_Little_Shop_of_Horrors_512kb_sub.mp4",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "sintel",
+      "tipo": "corto",
+      "titulo": "Sintel",
+      "sinopsis": "Una joven recorre tierras heladas buscando al pequeño dragón que crió y perdió. Un corto de fantasía tan bello como desgarrador. Con subtítulos en español.",
+      "generos": [
+        "fantasía",
+        "aventura",
+        "animación"
+      ],
+      "idioma": "es",
+      "anio": "2010",
+      "color": "#6B3A2E",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sintel_movie_4K.webm/960px--Sintel_movie_4K.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:Sintel_movie_4K.webm",
+      "licencia": "CC BY 3.0",
+      "url_licencia": "https://creativecommons.org/licenses/by/3.0/",
+      "autor": "Blender Foundation (Durian Open Movie Project)",
+      "atribucion": "© copyright Blender Foundation | durian.blender.org",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Sintel",
+          "duracion_seg": 888,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/Sintel_movie_4K.webm/Sintel_movie_4K.webm.480p.vp9.webm",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/Sintel_movie_4K.webm/Sintel_movie_4K.webm.360p.mpeg4.mov",
+          "subtitulos": [
+            {
+              "idioma": "es",
+              "etiqueta": "Español",
+              "url": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File:Sintel_movie_4K.webm&lang=es&trackformat=vtt&origin=*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-buck-bunny",
+      "tipo": "corto",
+      "titulo": "Big Buck Bunny",
+      "sinopsis": "Un conejo enorme y bonachón decide vengarse de tres roedores abusivos. Comedia animada sin diálogos.",
+      "generos": [
+        "comedia",
+        "animación"
+      ],
+      "idioma": "es",
+      "anio": "2008",
+      "color": "#4C8A3F",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Big_Buck_Bunny_4K.webm/960px--Big_Buck_Bunny_4K.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:Big_Buck_Bunny_4K.webm",
+      "licencia": "CC BY 3.0",
+      "url_licencia": "https://creativecommons.org/licenses/by/3.0/",
+      "autor": "Blender Foundation (Peach Open Movie Project)",
+      "atribucion": "© copyright Blender Foundation | www.bigbuckbunny.org",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Big Buck Bunny",
+          "duracion_seg": 635,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.480p.vp9.webm",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.360p.mpeg4.mov",
+          "subtitulos": [
+            {
+              "idioma": "es",
+              "etiqueta": "Español",
+              "url": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File:Big_Buck_Bunny_4K.webm&lang=es&trackformat=vtt&origin=*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spring",
+      "tipo": "corto",
+      "titulo": "Spring",
+      "sinopsis": "Una pastora y su perro enfrentan a los espíritus del bosque en un ciclo de vida y renacimiento. Sin diálogos.",
+      "generos": [
+        "fantasía",
+        "animación"
+      ],
+      "idioma": "zxx",
+      "anio": "2019",
+      "color": "#3A5F7A",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Spring_-_Blender_Open_Movie.webm/960px--Spring_-_Blender_Open_Movie.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:Spring_-_Blender_Open_Movie.webm",
+      "licencia": "CC BY 4.0",
+      "url_licencia": "https://creativecommons.org/licenses/by/4.0/",
+      "autor": "Andy Goralczyk / Blender Foundation",
+      "atribucion": "Spring, por Andy Goralczyk / Blender Foundation (blender.org), CC BY 4.0",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Spring",
+          "duracion_seg": 464,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Spring_-_Blender_Open_Movie.webm/Spring_-_Blender_Open_Movie.webm.480p.vp9.webm",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Spring_-_Blender_Open_Movie.webm/Spring_-_Blender_Open_Movie.webm.360p.mpeg4.mov",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "pioneer-one",
+      "tipo": "serie",
+      "titulo": "Pioneer One",
+      "sinopsis": "Un objeto cae del cielo y esparce radiación sobre Norteamérica. Dos agentes de Seguridad Nacional descubren entre los restos a un joven que dice venir de una colonia soviética en Marte. Drama de ciencia ficción independiente, financiado por sus fans.",
+      "generos": [
+        "drama",
+        "ciencia ficción",
+        "suspenso"
+      ],
+      "idioma": "en",
+      "anio": "2010–2011",
+      "color": "#5A4632",
+      "portada": "https://archive.org/services/img/PioneerOneS01E01",
+      "fuente": "Internet Archive",
+      "url_fuente": "https://archive.org/details/PioneerOneS01E01",
+      "licencia": "CC BY-NC-SA 3.0",
+      "url_licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "nota_licencia": "Publicada por VODO bajo CC BY-NC-SA 3.0 (solo uso no comercial). Las copias de los episodios 2 a 6 en Internet Archive están mal etiquetadas como CC BY-SA 4.0; vale la licencia original. Subtítulos en español oficiales solo para el episodio 1.",
+      "autor": "Josh Bernhard y Bracey Smith",
+      "atribucion": "Pioneer One, creada por Josh Bernhard y Bracey Smith, distribuida por VODO (CC BY-NC-SA 3.0)",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Earthfall (piloto)",
+          "duracion_seg": 2044,
+          "video": "https://archive.org/download/PioneerOneS01E01/Content/Pioneer.One.S01E01.REFIX.Xvid-VODO.mp4",
+          "url_fuente": "https://archive.org/details/PioneerOneS01E01",
+          "subtitulos": [
+            {
+              "idioma": "es",
+              "etiqueta": "Español",
+              "url": "subs/pioneer-one-1.es.vtt"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "El hombre de Marte",
+          "duracion_seg": 2322,
+          "video": "https://archive.org/download/pioneer-one-ep.-2-the-man-from-mars_202608/PIONEER%20ONE%20Ep.2%20The%20Man%20From%20Mars.ia.mp4",
+          "url_fuente": "https://archive.org/details/pioneer-one-ep.-2-the-man-from-mars_202608",
+          "subtitulos": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Solo en la noche",
+          "duracion_seg": 1875,
+          "video": "https://archive.org/download/pioneer-one-ep.-3-alone-in-the-night/PIONEER%20ONE%20Ep.3%20Alone%20in%20the%20Night.ia.mp4",
+          "url_fuente": "https://archive.org/details/pioneer-one-ep.-3-alone-in-the-night",
+          "subtitulos": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Diploma triangular",
+          "duracion_seg": 2027,
+          "video": "https://archive.org/download/pioneer-one-ep.-4-triangular-diploma/PIONEER%20ONE%20Ep.4%20Triangular%20Diploma.ia.mp4",
+          "url_fuente": "https://archive.org/details/pioneer-one-ep.-4-triangular-diploma",
+          "subtitulos": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Cambio de rumbo",
+          "duracion_seg": 2264,
+          "video": "https://archive.org/download/pioneer-one-ep.-5-sea-change/PIONEER%20ONE%20Ep.5%20Sea%20Change.mp4",
+          "url_fuente": "https://archive.org/details/pioneer-one-ep.-5-sea-change",
+          "subtitulos": []
+        },
+        {
+          "numero": 6,
+          "titulo": "La guerra del mundo",
+          "duracion_seg": 2640,
+          "video": "https://archive.org/download/pioneer-one-ep.-6-war-of-the-world-3mp-4_202608/PIONEER%20ONE%20Ep.6%20War%20of%20the%20World3mp4.ia.mp4",
+          "url_fuente": "https://archive.org/details/pioneer-one-ep.-6-war-of-the-world-3mp-4_202608",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "el-cosmonauta",
+      "tipo": "pelicula",
+      "titulo": "El Cosmonauta",
+      "sinopsis": "Rusia, 1967. Stas sueña con ser el primer hombre en pisar la Luna. Cuando el contacto con su nave se pierde, sus amigos Andrei y Yulia empiezan a recibir su voz por radio... desde una Tierra que parece vacía. Drama romántico de ciencia ficción, la primera película española financiada por sus fans y estrenada con licencia libre.",
+      "generos": [
+        "drama",
+        "ciencia ficción",
+        "romance"
+      ],
+      "idioma": "es",
+      "anio": "2013",
+      "color": "#2F4A5E",
+      "portada": "https://archive.org/services/img/el-cosmonauta-2013",
+      "fuente": "Internet Archive",
+      "url_fuente": "https://archive.org/details/el-cosmonauta-2013",
+      "licencia": "CC BY-SA 3.0",
+      "url_licencia": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "nota_licencia": "Estrenada por Riot Cinema Collective bajo licencia Creative Commons Reconocimiento-CompartirIgual (ver el caso de estudio en wiki.creativecommons.org). La copia de Internet Archive está etiquetada como CC BY-NC 4.0 por quien la subió; vale la licencia original.",
+      "autor": "Nicolás Alcalá / Riot Cinema Collective",
+      "atribucion": "El Cosmonauta, de Nicolás Alcalá y Riot Cinema Collective (CC BY-SA)",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "El Cosmonauta",
+          "duracion_seg": 6231,
+          "video": "https://archive.org/download/el-cosmonauta-2013/el-cosmonauta-2013.mp4",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "nasty-old-people",
+      "tipo": "pelicula",
+      "clasificacion": "+18",
+      "aviso": "Violencia, consumo de drogas, contenido sexual e ideología neonazi.",
+      "titulo": "Nasty Old People",
+      "sinopsis": "Mette, de 22 años, vive en la periferia de Malmö, pertenece a una banda neonazi y trabaja cuidando a cuatro ancianos que solo esperan morir. Poco a poco, ese trabajo empieza a cambiarla. Drama sueco crudo y con humor negro.",
+      "generos": [
+        "drama"
+      ],
+      "idioma": "sv",
+      "anio": "2009",
+      "color": "#4A3A44",
+      "portada": "https://archive.org/services/img/VisionOntv-NastyOldPeopleFeatureFilm625-3",
+      "fuente": "Internet Archive",
+      "url_fuente": "https://archive.org/details/VisionOntv-NastyOldPeopleFeatureFilm625-3",
+      "licencia": "CC BY-NC-SA 3.0",
+      "url_licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "nota_licencia": "Estrenada por su directora en The Pirate Bay bajo CC BY-NC-SA (solo uso no comercial); es la primera película sueca con licencia Creative Commons. Audio en sueco con subtítulos en inglés.",
+      "autor": "Hanna Sköld",
+      "atribucion": "Nasty Old People, de Hanna Sköld (CC BY-NC-SA)",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Nasty Old People",
+          "duracion_seg": 5065,
+          "video": "https://archive.org/download/VisionOntv-NastyOldPeopleFeatureFilm625-3/VisionOntv-NastyOldPeopleFeatureFilm625_512kb.mp4",
+          "subtitulos": [
+            {
+              "idioma": "en",
+              "etiqueta": "Inglés",
+              "url": "subs/nasty-old-people.en.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "little-pleasure",
+      "tipo": "serie",
+      "titulo": "Little Pleasure",
+      "sinopsis": "Una propuesta de la sacerdotisa vudú Marie Laveau a un vampiro llamado Alexander marca el destino de la familia Laveau. Serie independiente española de fantasía oscura; por ahora solo está publicado el primer capítulo.",
+      "generos": [
+        "drama",
+        "fantasía",
+        "terror"
+      ],
+      "idioma": "es",
+      "anio": "2013",
+      "color": "#5C2430",
+      "portada": "https://archive.org/services/img/LTCAP11280FINAL",
+      "fuente": "Internet Archive",
+      "url_fuente": "https://archive.org/details/LTCAP11280FINAL",
+      "licencia": "CC BY-NC 3.0",
+      "url_licencia": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "nota_licencia": "Publicada por su creadora en Internet Archive bajo CC BY-NC 3.0 (solo uso no comercial).",
+      "autor": "Cris Carmona",
+      "atribucion": "Little Pleasure, de Cris Carmona (CC BY-NC 3.0)",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo 1",
+          "duracion_seg": 718,
+          "video": "https://archive.org/download/LTCAP11280FINAL/LT%20CAP%201%201280%20FINAL.mp4",
+          "subtitulos": []
+        }
+      ]
+    }
+  ]
+}
