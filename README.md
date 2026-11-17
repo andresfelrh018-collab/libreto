@@ -1,5 +1,7 @@
 # Libreto
 
+**App publicada:** https://andresfelrh018-collab.github.io/libreto/
+
 App web personal para ver series y películas de **dominio público** y **Creative Commons**, sin anuncios, pagos, cuentas ni rastreo. Vite + JavaScript sin framework.
 
 ```bash
@@ -18,6 +20,12 @@ npm run preview  # sirve dist/ en http://localhost:4173 (con service worker)
 - En el Inicio aparece un aviso para instalar: botón "Instalar" en Android/Chrome e instrucciones en iPhone (Compartir → Agregar a inicio). La "×" lo oculta para siempre.
 
 Para instalarla en el celular hace falta HTTPS (el service worker no funciona por `http://` en la red local), así que la prueba real llega con la Fase 5.
+
+## Publicar
+
+Cada cambio en la rama `main` se publica solo en GitHub Pages (`.github/workflows/deploy.yml`): valida el catálogo, compila y despliega en 1–2 minutos. Si el catálogo tiene errores (falta licencia o fuente, enlaces sin https), no se publica y GitHub te avisa.
+
+Para agregar un título sin tocar tu computadora: abre `public/catalog.json` en github.com, pulsa el lápiz ✏️, edita y pulsa **Commit changes**.
 
 ## Agregar contenido
 
@@ -57,4 +65,4 @@ Internet Archive **no** envía `Access-Control-Allow-Origin`, así que el `<vide
 - [x] Fase 2: reproductor (velocidad, subtítulos, continuar viendo, siguiente episodio, errores, +18)
 - [x] Fase 3: biblioteca (favoritos, filtros, orden, vista) y búsqueda (título, autor, género, sin tildes)
 - [x] Fase 4: PWA (manifest, iconos, service worker, aviso de instalación) — falta probar en un celular real
-- [ ] Fase 5: publicar
+- [x] Fase 5: publicada en GitHub Pages — falta probar la instalación en un celular real
