@@ -60,7 +60,7 @@ Internet Archive **no** envía `Access-Control-Allow-Origin`, así que el `<vide
 
 ## Estado
 
-- [x] Fase 0: catálogo verificado (13 títulos, 4 modernos)
+- [x] Fase 0: catálogo verificado (17 títulos: 8 modernos, 2 para adultos)
 - [x] Fase 1: esqueleto, ruteo, inicio y detalle
 - [x] Fase 2: reproductor (velocidad, subtítulos, continuar viendo, siguiente episodio, errores, +18)
 - [x] Fase 3: biblioteca (favoritos, filtros, orden, vista) y búsqueda (título, autor, género, sin tildes)

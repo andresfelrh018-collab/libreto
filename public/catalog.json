@@ -515,6 +515,482 @@
           "subtitulos": []
         }
       ]
+    },
+    {
+      "id": "tres-acordes",
+      "tipo": "serie",
+      "clasificacion": "+18",
+      "aviso": "Animación para adultos: drogas, lenguaje vulgar, vicios y depresión.",
+      "titulo": "Tres Acordes",
+      "sinopsis": "Jaique, Adriel y Eduard, tres amigos de Rosario, sobreviven a la economía, los vicios, los desamores y la depresión... entre viajes en el tiempo y viajes de ácido. Serie animada argentina de humor ácido, hecha por su creador durante casi una década.",
+      "generos": [
+        "comedia",
+        "animación",
+        "drama"
+      ],
+      "idioma": "es",
+      "anio": "2011–2018",
+      "color": "#8A4B2A",
+      "portada": "https://archive.org/download/TresAcordesTemporada4/TresAcordesTemporada4.thumbs/Tres%20Acordes%20-%20T04E01%20Un%20Mal%20Presentimiento_000327.jpg",
+      "fuente": "Internet Archive",
+      "url_fuente": "https://archive.org/details/TresAcordesTemporada01",
+      "licencia": "CC BY-NC-SA 4.0",
+      "url_licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "nota_licencia": "Publicada en Internet Archive por su propio creador (Taxideral) bajo CC BY-NC-SA 4.0 (solo uso no comercial). Incluye las temporadas 1 a 5.",
+      "autor": "Taxideral (Producciones Trukini)",
+      "atribucion": "Tres Acordes, de Taxideral / Producciones Trukini (CC BY-NC-SA 4.0)",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "T1 · Afortunada Desdicha",
+          "duracion_seg": 342,
+          "video": "https://archive.org/download/TresAcordesTemporada01/Tres%20Acordes%20-%20T01E01_%20Afortunada%20Desdicha.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada01",
+          "subtitulos": []
+        },
+        {
+          "numero": 2,
+          "titulo": "T1 · El Dinero",
+          "duracion_seg": 399,
+          "video": "https://archive.org/download/TresAcordesTemporada01/Tres%20Acordes%20-%20T01E02_%20El%20Dinero.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada01",
+          "subtitulos": []
+        },
+        {
+          "numero": 3,
+          "titulo": "T1 · Una Nueva Etapa",
+          "duracion_seg": 323,
+          "video": "https://archive.org/download/TresAcordesTemporada01/Tres%20Acordes%20-%20T01E03_%20Una%20Nueva%20Etapa.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada01",
+          "subtitulos": []
+        },
+        {
+          "numero": 4,
+          "titulo": "T1 · La Secundaria",
+          "duracion_seg": 461,
+          "video": "https://archive.org/download/TresAcordesTemporada01/Tres%20Acordes%20-%20T01E04%20_%20La%20Secundaria.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada01",
+          "subtitulos": []
+        },
+        {
+          "numero": 5,
+          "titulo": "T1 · La secundaria (Parte II)",
+          "duracion_seg": 407,
+          "video": "https://archive.org/download/TresAcordesTemporada01/Tres%20Acordes%20-%20T01E05%20La%20secundaria%20%28Parte%20II%29.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada01",
+          "subtitulos": []
+        },
+        {
+          "numero": 6,
+          "titulo": "T2 · Aires Campestres",
+          "duracion_seg": 396,
+          "video": "https://archive.org/download/TresAcordesTemporada02/Tres%20Acordes%20-%20T02%20E01%20Aires%20Campestres.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada02",
+          "subtitulos": []
+        },
+        {
+          "numero": 7,
+          "titulo": "T2 · La historia sin fin",
+          "duracion_seg": 467,
+          "video": "https://archive.org/download/TresAcordesTemporada02/Tres%20Acordes%20-%20T02E02%20La%20historia%20sin%20fin.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada02",
+          "subtitulos": []
+        },
+        {
+          "numero": 8,
+          "titulo": "T2 · Misofonia",
+          "duracion_seg": 533,
+          "video": "https://archive.org/download/TresAcordesTemporada02/Tres%20Acordes%20-%20T02E03%20Misofonia.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada02",
+          "subtitulos": []
+        },
+        {
+          "numero": 9,
+          "titulo": "T2 · El Cuadro",
+          "duracion_seg": 722,
+          "video": "https://archive.org/download/TresAcordesTemporada02/Tres%20Acordes%20-%20T02E04%20El%20Cuadro.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada02",
+          "subtitulos": []
+        },
+        {
+          "numero": 10,
+          "titulo": "T2 · El Resumen Semanal Deportivo",
+          "duracion_seg": 655,
+          "video": "https://archive.org/download/TresAcordesTemporada02/Tres%20Acordes%20-%20T02E05%20El%20Resumen%20Semanal%20Deportivo.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada02",
+          "subtitulos": []
+        },
+        {
+          "numero": 11,
+          "titulo": "T2 · Los Sueños de Jaique",
+          "duracion_seg": 680,
+          "video": "https://archive.org/download/TresAcordesTemporada02/Tres%20Acordes%20-%20T02E05%20Los%20Sue%C3%B1os%20de%20Jaique.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada02",
+          "subtitulos": []
+        },
+        {
+          "numero": 12,
+          "titulo": "T2 · La navidad de Eduard",
+          "duracion_seg": 554,
+          "video": "https://archive.org/download/TresAcordesTemporada02/Tres%20Acordes%20-%20T02E06%20La%20navidad%20de%20Eduard.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada02",
+          "subtitulos": []
+        },
+        {
+          "numero": 13,
+          "titulo": "T2 · La Desconexión de Adriel",
+          "duracion_seg": 658,
+          "video": "https://archive.org/download/TresAcordesTemporada02/Tres%20Acordes%20-%20T02E07%20La%20Desconexi%C3%B3n%20de%20Adriel.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada02",
+          "subtitulos": []
+        },
+        {
+          "numero": 14,
+          "titulo": "T3 · Cómo soltarle la mano a la vida",
+          "duracion_seg": 1004,
+          "video": "https://archive.org/download/tresacordesemporada03/Tres%20Acordes%20-%20T03E01%20C%C3%B3mo%20soltarle%20la%20mano%20a%20la%20vida.mp4",
+          "url_fuente": "https://archive.org/details/tresacordesemporada03",
+          "subtitulos": []
+        },
+        {
+          "numero": 15,
+          "titulo": "T3 · El caso de norber",
+          "duracion_seg": 833,
+          "video": "https://archive.org/download/tresacordesemporada03/Tres%20Acordes%20-%20T03E02%20-%20El%20caso%20de%20norber.mp4",
+          "url_fuente": "https://archive.org/details/tresacordesemporada03",
+          "subtitulos": []
+        },
+        {
+          "numero": 16,
+          "titulo": "T3 · Ese Vicio Asqueroso",
+          "duracion_seg": 733,
+          "video": "https://archive.org/download/tresacordesemporada03/Tres%20Acordes%20-%20T03E03%20Ese%20Vicio%20Asqueroso.mp4",
+          "url_fuente": "https://archive.org/details/tresacordesemporada03",
+          "subtitulos": []
+        },
+        {
+          "numero": 17,
+          "titulo": "T3 · Otra canción de amor",
+          "duracion_seg": 639,
+          "video": "https://archive.org/download/tresacordesemporada03/Tres%20Acordes%20-%20T03E04%20Otra%20canci%C3%B3n%20de%20amor.mp4",
+          "url_fuente": "https://archive.org/details/tresacordesemporada03",
+          "subtitulos": []
+        },
+        {
+          "numero": 18,
+          "titulo": "T3 · ceBEATas",
+          "duracion_seg": 425,
+          "video": "https://archive.org/download/tresacordesemporada03/Tres%20Acordes%20-%20T03E05%20ceBEATas.mp4",
+          "url_fuente": "https://archive.org/details/tresacordesemporada03",
+          "subtitulos": []
+        },
+        {
+          "numero": 19,
+          "titulo": "T3 · Pretencioso y desprolijo  (Vol 1.)",
+          "duracion_seg": 882,
+          "video": "https://archive.org/download/tresacordesemporada03/Tres%20Acordes%20-%20T03E06_%20Pretencioso%20y%20desprolijo%20%20%28Vol%201.%29.mp4",
+          "url_fuente": "https://archive.org/details/tresacordesemporada03",
+          "subtitulos": []
+        },
+        {
+          "numero": 20,
+          "titulo": "T3 · Pretencioso y Desprolijo (Vol. 2)",
+          "duracion_seg": 676,
+          "video": "https://archive.org/download/tresacordesemporada03/Tres%20Acordes%20-%20T03E07%20Pretencioso%20y%20Desprolijo%20%28Vol.%202%29.mp4",
+          "url_fuente": "https://archive.org/details/tresacordesemporada03",
+          "subtitulos": []
+        },
+        {
+          "numero": 21,
+          "titulo": "T3 · Pretencioso y Desprolijo (Final)",
+          "duracion_seg": 1170,
+          "video": "https://archive.org/download/tresacordesemporada03/Tres%20Acordes%20-%20T03E08%20Pretencioso%20y%20Desprolijo%20%28Final%29.mp4",
+          "url_fuente": "https://archive.org/details/tresacordesemporada03",
+          "subtitulos": []
+        },
+        {
+          "numero": 22,
+          "titulo": "T4 · Un Mal Presentimiento",
+          "duracion_seg": 664,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E01%20Un%20Mal%20Presentimiento.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 23,
+          "titulo": "T4 · Otro Día Despercidiado",
+          "duracion_seg": 753,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E02%20Otro%20D%C3%ADa%20Despercidiado.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 24,
+          "titulo": "T4 · El viaje",
+          "duracion_seg": 668,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E03El%20viaje.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 25,
+          "titulo": "T4 · Punto de partida, llegada",
+          "duracion_seg": 957,
+          "video": "https://archive.org/download/TresAcordesTemporada4/TresAcordes-T04e04PuntoDePartida-llegada.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 26,
+          "titulo": "T4 · XP",
+          "duracion_seg": 673,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E05%20XP.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 27,
+          "titulo": "T4 · Ahre",
+          "duracion_seg": 785,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E06%20Ahre.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 28,
+          "titulo": "T4 · Afuera-Adentro",
+          "duracion_seg": 670,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E07%20Afuera-Adentro.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 29,
+          "titulo": "T4 · Tres décadas a todo ritmo",
+          "duracion_seg": 698,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E08%20%20Tres%20d%C3%A9cadas%20a%20todo%20ritmo.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 30,
+          "titulo": "T4 · El dia que fleko se convirtió en asdasda",
+          "duracion_seg": 684,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E09%20El%20dia%20que%20fleko%20se%20convirti%C3%B3%20en%20asdasda.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 31,
+          "titulo": "T4 · Problema",
+          "duracion_seg": 629,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E10%20Problema.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 32,
+          "titulo": "T4 · Solucion",
+          "duracion_seg": 1522,
+          "video": "https://archive.org/download/TresAcordesTemporada4/Tres%20Acordes%20-%20T04E11%20-%20Solucion.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada4",
+          "subtitulos": []
+        },
+        {
+          "numero": 33,
+          "titulo": "T5 · Resolución",
+          "duracion_seg": 1298,
+          "video": "https://archive.org/download/TresAcordesTemporada5/Tres%20Acordes%20-%20T05E01%20Resoluci%C3%B3n.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 34,
+          "titulo": "T5 · Haya paz",
+          "duracion_seg": 1102,
+          "video": "https://archive.org/download/TresAcordesTemporada5/TresAcordes-T05e02hayaPaz.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 35,
+          "titulo": "T5 · Un tipo inestable",
+          "duracion_seg": 862,
+          "video": "https://archive.org/download/TresAcordesTemporada5/TresAcordes-T05e03UnTipoInestable.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 36,
+          "titulo": "T5 · Nunca en el blanco",
+          "duracion_seg": 886,
+          "video": "https://archive.org/download/TresAcordesTemporada5/TresAcordes-T05e04NuncaEnElBlanco.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 37,
+          "titulo": "T5 · Este capítulo te sorprenderá",
+          "duracion_seg": 904,
+          "video": "https://archive.org/download/TresAcordesTemporada5/TresAcordes-T05e05-EsteCaptuloTeSorprendera.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 38,
+          "titulo": "T5 · Entre Amigos",
+          "duracion_seg": 822,
+          "video": "https://archive.org/download/TresAcordesTemporada5/Tres%20Acordes%20-%20T05E06%20Entre%20Amigos.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 39,
+          "titulo": "T5 · Fristail",
+          "duracion_seg": 891,
+          "video": "https://archive.org/download/TresAcordesTemporada5/Tres%20Acordes%20-%20T05E07%20-%20Fristail.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 40,
+          "titulo": "T5 · Otros Acordes",
+          "duracion_seg": 840,
+          "video": "https://archive.org/download/TresAcordesTemporada5/Tres%20Acordes%20-%20T05E08%20Otros%20Acordes.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 41,
+          "titulo": "T5 · El principio del fin",
+          "duracion_seg": 872,
+          "video": "https://archive.org/download/TresAcordesTemporada5/Tres%20Acordes%20-%20T05E09%20-%20El%20principio%20del%20fin.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        },
+        {
+          "numero": 42,
+          "titulo": "T5 · El final del principio",
+          "duracion_seg": 1202,
+          "video": "https://archive.org/download/TresAcordesTemporada5/Tres%20Acordes%20-%20T05E10El%20final%20del%20principio.mp4",
+          "url_fuente": "https://archive.org/details/TresAcordesTemporada5",
+          "subtitulos": []
+        }
+      ]
+    },
+    {
+      "id": "sprite-fright",
+      "tipo": "corto",
+      "titulo": "Sprite Fright",
+      "sinopsis": "Un grupo de adolescentes desagradables se va de excursión a un bosque de Irlanda del Norte... y despierta a unos duendes de los hongos que no perdonan. Comedia de terror sangrienta, al estilo de los slashers de los 80.",
+      "generos": [
+        "terror",
+        "comedia",
+        "animación"
+      ],
+      "idioma": "es",
+      "anio": "2021",
+      "color": "#3E5A2B",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sprite_Fright_-_Blender_Open_Movie-full_movie.webm/960px--Sprite_Fright_-_Blender_Open_Movie-full_movie.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:Sprite_Fright_-_Blender_Open_Movie-full_movie.webm",
+      "licencia": "CC BY 4.0",
+      "url_licencia": "https://creativecommons.org/licenses/by/4.0/",
+      "autor": "Blender Studio",
+      "atribucion": "Sprite Fright, por Blender Studio (studio.blender.org), CC BY 4.0",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Sprite Fright",
+          "duracion_seg": 630,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/Sprite_Fright_-_Blender_Open_Movie-full_movie.webm/Sprite_Fright_-_Blender_Open_Movie-full_movie.webm.480p.vp9.webm",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/Sprite_Fright_-_Blender_Open_Movie-full_movie.webm/Sprite_Fright_-_Blender_Open_Movie-full_movie.webm.360p.mpeg4.mov",
+          "subtitulos": [
+            {
+              "idioma": "es",
+              "etiqueta": "Español",
+              "url": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File:Sprite_Fright_-_Blender_Open_Movie-full_movie.webm&lang=es&trackformat=vtt&origin=*"
+            }
+          ]
+        }
+      ],
+      "aviso": "Violencia y sangre en tono de comedia."
+    },
+    {
+      "id": "charge",
+      "tipo": "corto",
+      "titulo": "Charge",
+      "sinopsis": "En un futuro de escasez de energía, una anciana defiende su refugio de un robot implacable. Corto de acción tensa y violenta.",
+      "generos": [
+        "acción",
+        "ciencia ficción",
+        "animación"
+      ],
+      "idioma": "es",
+      "anio": "2022",
+      "color": "#2C3E57",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Charge_-_Blender_Open_Movie-full_movie.webm/960px--Charge_-_Blender_Open_Movie-full_movie.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:Charge_-_Blender_Open_Movie-full_movie.webm",
+      "licencia": "CC BY 4.0",
+      "url_licencia": "https://creativecommons.org/licenses/by/4.0/",
+      "autor": "Blender Studio",
+      "atribucion": "Charge, por Blender Studio (studio.blender.org), CC BY 4.0",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Charge",
+          "duracion_seg": 263,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/Charge_-_Blender_Open_Movie-full_movie.webm/Charge_-_Blender_Open_Movie-full_movie.webm.480p.vp9.webm",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/Charge_-_Blender_Open_Movie-full_movie.webm/Charge_-_Blender_Open_Movie-full_movie.webm.360p.mpeg4.mov",
+          "subtitulos": [
+            {
+              "idioma": "es",
+              "etiqueta": "Español",
+              "url": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File:Charge_-_Blender_Open_Movie-full_movie.webm&lang=es&trackformat=vtt&origin=*"
+            }
+          ]
+        }
+      ],
+      "aviso": "Violencia."
+    },
+    {
+      "id": "cosmos-laundromat",
+      "tipo": "corto",
+      "titulo": "Cosmos Laundromat",
+      "sinopsis": "Franck, una oveja deprimida que quiere acabar con su vida en una isla desierta, conoce a Victor, un vendedor misterioso que le ofrece vivir otras vidas. Cuento surrealista para adultos.",
+      "generos": [
+        "drama",
+        "fantasía",
+        "animación"
+      ],
+      "idioma": "es",
+      "anio": "2015",
+      "color": "#6B4E2E",
+      "portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm/960px--Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm.jpg",
+      "fuente": "Wikimedia Commons",
+      "url_fuente": "https://commons.wikimedia.org/wiki/File:Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm",
+      "licencia": "CC BY-SA 3.0",
+      "url_licencia": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "autor": "Blender Foundation (Gooseberry Open Movie Project)",
+      "atribucion": "Cosmos Laundromat, por Blender Foundation (gooseberry.blender.org), CC BY-SA 3.0",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Cosmos Laundromat",
+          "duracion_seg": 731,
+          "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/36/Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm/Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm.480p.vp9.webm",
+          "video_alt": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/36/Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm/Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm.360p.mpeg4.mov",
+          "subtitulos": [
+            {
+              "idioma": "es",
+              "etiqueta": "Español",
+              "url": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File:Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm&lang=es&trackformat=vtt&origin=*"
+            }
+          ]
+        }
+      ],
+      "aviso": "Temas de suicidio."
     }
   ]
 }

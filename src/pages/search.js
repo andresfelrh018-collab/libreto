@@ -17,15 +17,22 @@ function generos(cat) {
       map.set(g, e);
     }
   }
-  return [...map.values()].sort((a, b) => b.n - a.n || a.id.localeCompare(b.id, 'es'));
+  const lista = [...map.values()].sort((a, b) => b.n - a.n || a.id.localeCompare(b.id, 'es'));
+  const adultos = cat.series.filter((s) => s.clasificacion === '+18');
+  if (adultos.length) lista.unshift({ id: ADULTOS, n: adultos.length, color: '#7A2E3A' });
+  return lista;
 }
+
+const ADULTOS = '+18';
+const etiquetaGenero = (g) => (g === ADULTOS ? '+18 · Adultos' : cap(g));
+const tieneGenero = (s, g) => (g === ADULTOS ? s.clasificacion === '+18' : (s.generos || []).includes(g));
 
 /** Puntaje: el título pesa más que autor/género, y estos más que la sinopsis. */
 function puntaje(s, q) {
   if (!q) return 1;
   const words = q.split(/\s+/).filter(Boolean);
   const titulo = norm(s.titulo);
-  const otros = norm([s.autor, ...(s.generos || []), ...s.episodios.map((e) => e.titulo)].join(' '));
+  const otros = norm([s.autor, ...(s.generos || []), s.clasificacion === '+18' ? '+18 adultos adulto mayores' : '', s.aviso, ...s.episodios.map((e) => e.titulo)].join(' '));
   const sinopsis = norm(s.sinopsis);
   let total = 0;
   for (const w of words) {
@@ -41,7 +48,7 @@ function puntaje(s, q) {
 function resultados(cat) {
   const q = norm(query.trim());
   return cat.series
-    .filter((s) => !genero || (s.generos || []).includes(genero))
+    .filter((s) => !genero || tieneGenero(s, genero))
     .map((s) => ({ s, p: puntaje(s, q) }))
     .filter((x) => x.p > 0)
     .sort((a, b) => b.p - a.p || a.s.titulo.localeCompare(b.s.titulo, 'es'))
@@ -74,7 +81,7 @@ export function renderSearch(view, cat) {
   function paintChips() {
     chips.hidden = !query && !genero;
     chips.innerHTML = gens
-      .map((g) => `<button type="button" class="chip" data-gen="${esc(g.id)}" aria-pressed="${g.id === genero}">${esc(cap(g.id))}</button>`)
+      .map((g) => `<button type="button" class="chip" data-gen="${esc(g.id)}" aria-pressed="${g.id === genero}">${esc(etiquetaGenero(g.id))}</button>`)
       .join('');
   }
 
@@ -84,13 +91,13 @@ export function renderSearch(view, cat) {
       results.innerHTML = `<h2 class="search__sub">Explorar por género</h2>
         <ul class="genres">${gens
           .map((g) => `<li><button type="button" class="genre" data-gen="${esc(g.id)}" style="--g:${esc(g.color || '#555')}">
-              <span class="genre__name">${esc(cap(g.id))}</span><span class="genre__n">${g.n} ${g.n === 1 ? 'título' : 'títulos'}</span>
+              <span class="genre__name">${esc(etiquetaGenero(g.id))}</span><span class="genre__n">${g.n} ${g.n === 1 ? 'título' : 'títulos'}</span>
             </button></li>`)
           .join('')}</ul>`;
       return;
     }
     const list = resultados(cat);
-    const que = [query && `«${query}»`, genero && cap(genero)].filter(Boolean).join(' en ');
+    const que = [query && `«${query}»`, genero && etiquetaGenero(genero)].filter(Boolean).join(' en ');
     results.innerHTML = list.length
       ? `<p class="search__count">${list.length} ${list.length === 1 ? 'resultado' : 'resultados'}</p><ul class="rows">${list.map((s) => row(s)).join('')}</ul>`
       : `<p class="empty">No encontramos nada para ${esc(que)}. Prueba con otra palabra o quita el filtro de género.</p>`;

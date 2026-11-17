@@ -6,9 +6,14 @@ import { mountInstallCard } from '../install.js';
 const FILTROS = [
   { id: 'todo', label: 'Todo' },
   { id: 'serie', label: 'Series' },
+  { id: 'adultos', label: '+18' },
   { id: 'pelicula', label: 'Películas' },
   { id: 'corto', label: 'Cortos' },
 ];
+
+const esAdulto = (s) => s.clasificacion === '+18';
+const esModerno = (s) => parseInt(s.anio, 10) >= 2000;
+const pasaFiltro = (s) => filtro === 'todo' || (filtro === 'adultos' ? esAdulto(s) : s.tipo === filtro);
 let filtro = 'todo';
 
 function saludo(d = new Date()) {
@@ -64,7 +69,7 @@ function quickGrid(cat, visibles) {
 }
 
 export function renderHome(view, cat) {
-  const visibles = cat.series.filter((s) => filtro === 'todo' || s.tipo === filtro);
+  const visibles = cat.series.filter(pasaFiltro);
   const glow = (cat.byId.get(recientes()[0]) || visibles[0] || {}).color;
 
   view.innerHTML = `
@@ -79,9 +84,11 @@ export function renderHome(view, cat) {
       <h1 class="home__hello">${saludo()}</h1>
       ${visibles.length ? quickGrid(cat, visibles) : `<p class="empty">No hay ${esc(TIPO[filtro]?.toLowerCase() || 'títulos')}s en el catálogo todavía.</p>`}
       <div data-install-slot></div>
+      ${shelf('Series modernas', visibles.filter((s) => esModerno(s) && s.tipo === 'serie'))}
+      ${shelf('Para adultos (+18)', visibles.filter(esAdulto))}
+      ${shelf('Películas y cortos modernos', visibles.filter((s) => esModerno(s) && s.tipo !== 'serie'))}
       ${shelf('En español', visibles.filter(hablaEspanol))}
-      ${shelf('Series y películas modernas', visibles.filter((s) => parseInt(s.anio, 10) >= 2000 && s.tipo !== 'corto'))}
-      ${shelf('Dominio público', visibles.filter(isPublicDomain))}
+      ${shelf('Clásicos de dominio público', visibles.filter(isPublicDomain))}
       ${shelf('Creative Commons', visibles.filter((s) => !isPublicDomain(s)))}
     </div>`;
 
